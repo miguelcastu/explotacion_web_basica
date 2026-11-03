@@ -1,3 +1,22 @@
+# Web Security Lab — Isolated DVWA Coursework
+
+Historical exercises using DVWA and Metasploitable to study command injection,
+SQL injection, CSRF and reflected XSS. The Spanish PDF preserves the original
+report; the assignment below supplies its context. There is no executable web
+application or scanner in this repository.
+
+[Engineering portfolio](https://github.com/miguelcastu/miguelcastu) · [Project directory](https://github.com/miguelcastu/miguelcastu/blob/main/PROJECTS.md)
+
+## Scope
+
+These exercises concern deliberately vulnerable, isolated lab machines. The
+addresses and default credentials in the original assignment are lab examples.
+They are not instructions to test public systems. This audit did not recreate
+the vulnerable environment or verify the report's outcomes.
+
+## Original assignment (Spanish)
+
+
 # Explotacion_web_basica
 El objetivo es practicar algunos de los conceptos sobre seguridad de sistemas
 web y responder a las siguientes preguntas. Para realizar la práctica se utilizará la misma configuración utilizada
